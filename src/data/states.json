@@ -1,0 +1,16 @@
+[
+  {
+    "code": "AP",
+    "name": "Andhra Pradesh",
+    "festivals": ["Sankranti", "Ugadi", "Rath Yatra"],
+    "cuisine": ["Pesarattu", "Pulihora", "Gongura Pachadi"],
+    "places": ["Tirupati", "Vijayawada Kanaka Durga Temple", "Araku Valley"]
+  },
+  {
+    "code": "TG",
+    "name": "Telangana",
+    "festivals": ["Bonalu", "Bathukamma", "Diwali"],
+    "cuisine": ["Hyderabadi Biryani", "Sakinalu", "Qubani ka Meetha"],
+    "places": ["Charminar", "Golconda Fort", "Hussain Sagar"]
+  }
+]
